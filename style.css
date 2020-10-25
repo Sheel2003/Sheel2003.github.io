@@ -20,8 +20,8 @@ body {
 }
 
 .var-highlight{
-	color: #C0AD60;
+	color: #ffcc00;
 }
 .string-highlight{
-	color: rgba(253, 149, 90, 0.8);
+	color: rgba(0, 110, 255, 0.8);
 }
