@@ -20,10 +20,10 @@ body {
 }
 
 .var-highlight{
-	color: #ffcc00;
+	color: #0043fc75;
 }
 .string-highlight{
-	color: rgba(0, 110, 255, 0.8);
+	color: rgba(0, 238, 255, 0.8);
 }
 .fa {
 	padding: 24px;
